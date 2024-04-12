@@ -1,4 +1,4 @@
-package com.jewelrygroup.jewerlygroup;
+package com.jewelrygroup;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

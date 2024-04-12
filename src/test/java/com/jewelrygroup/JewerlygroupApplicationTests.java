@@ -1,4 +1,4 @@
-package com.jewelrygroup.jewerlygroup;
+package com.jewelrygroup;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
